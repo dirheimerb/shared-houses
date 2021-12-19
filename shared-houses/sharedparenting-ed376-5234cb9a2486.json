@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "sharedparenting-ed376",
+  "private_key_id": "5234cb9a248676485a7a8dc1ccb652a519c00c45",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbWy9ppkKd+Tjv\nJQeyn4+E5lL5ddO6h3YNaeHL6JfMgCtBfCUAOqmi7bdYYL/2L1vMOCwy+P8tZRxd\nlmYkE3ibSKev8S8Y3CQis3N0FKTwiiLN1CQPJ5GhjVkVjb1ji1Xi+Z1AC9SJyK5/\nxS2VkZT/yRp/sMqCFyfhRV4wYKCRwRwskyEr3g+tQgTTZI0N1cIhjs5RTKD5NXo4\nG7FIJ9s0gMLYAQAmKyvJ34j8EvI8O1sI8MZQEWtra+/VUG+w4Oc/FQPmmVGdIjpj\nq2YMI611kJBekrIvKxeOZV6nOW/mzW3q+6aOLqWAAGnVPsCWDGqG6PA/V9SzC9at\nETYAD87hAgMBAAECggEAG9ZlnPXBjIS9SfQcFvoS353PN+NRHGHmhGtEgXkiEozN\ncIENvQq0zn12gBu/IMH/11nlmg5pa9xiDipxCfECpEpDJZvpCzGc0F6Pr1KTYAdX\nxWE/tkCiRatHe+nB+CkNnEFrSF53+YhjRMnEMDAKha+C0mOgP4QqxnbkLiWFGxn3\ndTXx1qL6ZFMzDZQ2VRyKy+BNDYP/5CiUyPkhMAbjmMHh/LkXSpKziNLNtk4G44vw\n1wkGh5rhwAzjsFauilIjC4HWqq5VArzy1NkXkmTJJWBDOqIN88U/8hXbqC0ZvqO/\naS1aJgdLe7dbpkg7fPmB1uMvpag1SXw/cEZ/nrolcQKBgQD7ly0QxCu5OH1EAKeO\nQGXBbstbuIJwb2sLgXKiGhpc1nBlNwWRgYws2m4yWh4AGXcCg8VqnTAVeoIHj1CF\n4yWTXyDsN9aqIpjpmk9frHp6Uun6z0dB/nSK1ujBLI3kuQwP3DiAZ5Z7YzqiBuA2\nFpSrL3xi4q07YCUeDhwHZuONVQKBgQDfM2G4+JXVkc6XXnEnwtpaAosHjGoclnUs\nNgBRC4PLRIBiGqeGSu1rukZSYbIN4cuBdXHbyX24OYkceEiHHy+6QtqxgbqRh7Ys\n/svmAjNq54JWTzOI4am5F3dEbj4Hmc9XEqXd7ar8ft/XFZFdzGsx3OrjlR86MPcB\nnaLZDYebXQKBgAtXExbwYLAmla7dALBuwqdnYQ8vT+HVg9Ou8AXSe2G34LUPN9cJ\nKdJTvifS3AtRGoYofluB3kr5jKbelNiUFnuADDHZinl8ubu90toTIiolVpqRgTq+\nR26CpVcftP2cQajtWjafdK73GAt5l92YQvc8WrTyVrCYctPZ+vVyc8tJAoGBAKAZ\nehI09TzxTm/TRXVQ1lDUHCe493A0GC4zOfzoNov6QeCc3+d7HVw1jDWRcCd2/AOL\nW7VcjTo0wv3R5axOmWyQgc/rjwjOgMU7qsP8didLknkYbI3V2Gk0xM8oCIRpNolt\njd5nmUtuMl9UUCYo+AcXQMEn+PNDphnZmbL5enjdAoGAAteGpRAPzLyGSDQ08U5q\nXZPUgLZZumJQSZhxHzlrrpxGI+27NnkE+Z52FnD5hUzvFS7zGFz8N5qlGjOG9pmk\nE8B0XfNc2TnmgTJ0d0A9XTEs7YVqs/+pQqC4JsNR0GieoPhZC3dT5LblcCZ3rvvu\nn3LjgpW8knY9u6BNFG5RZkU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sharedparenting-ed376@appspot.gserviceaccount.com",
+  "client_id": "114382170382257012405",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sharedparenting-ed376%40appspot.gserviceaccount.com"
+}
